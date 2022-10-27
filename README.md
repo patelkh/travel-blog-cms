@@ -1,70 +1,15 @@
-# Getting Started with Create React App
+# Travel Blog Content Management System (CMS) - React.js<br>
+* **View App:** https://kays-travel-blog-cms.herokuapp.com<br><br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Travel Blog Backend API - MongoDB, Node.js & Express.js<br>
+* **View backend API:** https://kays-travel-blog-api.herokuapp.com/blogs/view <br>
+Sample data: <br>
+{<br>
+"_id":"634f6e6ff235f5e6f690ffff",<br>
+"date":"2022-10-18T00:00:00.000Z",<br>
+"author":"Kay Patel",<br>
+"title":"Camping by Crystal Lake",<br>
+"location":"United States",<br>
+"description":"Eu feugiat pretium nibh ipsum consequat. Ornare suspendisse sed nisi lacus. Non enim praesent elementum facilisis leo vel fringilla. Aliquam ultrices sagittis orci a scelerisque purus semper. Quisque id diam vel quam elementum pulvinar etiam non. Donec ac odio tempor orci. Bibendum at varius vel pharetra vel turpis nunc eget lorem. Sed enim ut sem viverra aliquet eget sit amet. Dolor magna eget est lorem ipsum dolor sit amet. Vestibulum morbi blandit cursus risus at ultrices mi tempus. Consectetur adipiscing elit duis tristique sollicitudin nibh. Non curabitur gravida arcu ac. Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Eu ultrices vitae auctor eu augue.","publish":true<br>
+}<br>
