@@ -1,4 +1,4 @@
-# Travel Blog Content Management System (CMS) - React.js<br>
+# Travel Blog Content Management System - React.js<br>
 * **View App:** https://kays-travel-blog-cms.herokuapp.com<br><br>
 * **Screenshots** <br>
 <img width="652" alt="Screen Shot 2022-10-27 at 12 41 19 PM" src="https://user-images.githubusercontent.com/76967126/198383762-fa9e9866-be02-473a-a086-05687ed60375.png"> <br><br>
