@@ -1,5 +1,6 @@
 # Travel Blog Content Management System - React.js<br>
 * **View App:** https://kays-travel-blog-cms.herokuapp.com<br><br>
+<img width="737" alt="Screen Shot 2022-10-28 at 7 22 27 AM" src="https://user-images.githubusercontent.com/76967126/198642292-410bce88-647f-4f1f-a7fa-e9dedfd7d582.png"><br><br>
 
 # Travel Blog Backend API - MongoDB, Node.js & Express.js<br>
 * **View backend API:** https://kays-travel-blog-api.herokuapp.com/blogs/view <br>
